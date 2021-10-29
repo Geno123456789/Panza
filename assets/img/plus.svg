@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27 27" width="27" height="27">
+	<title>Team</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #18cfab } 
+	</style>
+	<g id="Team">
+		<g id="Hover">
+			<g id="View">
+				<path id="Forma 1" class="shp0" d="M27.06 15.19L15.79 15.19L15.79 26.45L12.04 26.45L12.04 15.19L0.77 15.19L0.77 11.43L12.04 11.43L12.04 0.16L15.79 0.16L15.79 11.43L27.06 11.43L27.06 15.19Z" />
+			</g>
+		</g>
+	</g>
+</svg>

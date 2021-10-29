@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1119 564" width="1119" height="564">
+	<title>Purchase</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #969696 } 
+	</style>
+	<g id="Purchase">
+		<path id="Image Here" class="shp0" d="M75 470L137 315L0 23L657 0L914 399L1119 464L426 564L75 470Z" />
+	</g>
+</svg>

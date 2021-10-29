@@ -1,0 +1,16 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 22" width="10" height="22">
+	<title>Team</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="Team">
+		<g id="2">
+			<g id="Social copy">
+				<g id="Icon">
+					<path id="Forma 1" class="shp0" d="M6.81 21.69L3.03 21.69L3.03 10.82L0.5 10.82L0.5 7.07L3.03 7.07L3.02 4.87C3.02 1.81 3.79 -0.05 7.14 -0.05L9.93 -0.05L9.93 3.7L8.18 3.7C6.88 3.7 6.82 4.22 6.82 5.2L6.81 7.07L9.94 7.07L9.58 10.82L6.82 10.82L6.81 21.69Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

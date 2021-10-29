@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22" width="22" height="22">
+	<title>Header</title>
+	<defs>
+		<image width="22" height="22" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAydJREFUSEutlU9onEUYxp93stskG2mbIKKWigjFFkGRxqoxFtLMfDlo0JZmpbWHopcqKJ6EHjwIInjwYlER0aJEi5GKSl34vplNhP4VLYgXeygWtM1FSpBadTXfPGWW2eXbxayBOoeFeeeZ38y87/O9K+gatVqtv1wu3wfgMQAawAYAfQAWARwn+Xmj0TgxPT39R/fe4lyKE2vtFpKvi8gOAP0rbCSAr733B6empr5ZCd4GZ1n2kFJqluTtXeIcgAdQ7opfBvC0MeaLf4M3wWmablZKZQA2tkQiMk/ymPf+fF9f3z8A7iCZxBS1ZL+JiNFaf9sNl4WFhYE8zz8muTMuXiX5aqVSOTQ+Pn6luGFubm7NyMjIfpIvA7g5rp0ZHBxMurVirZ0CEJ7TyukrxpiXehXGWlsFcBhAJehI7k2S5EhH8ay1bwB4LgbrpVLp8YmJid97gUlKvV7/kOS+qPvSGBNc1B7inPuO5NYYed4Yc6gXtLWWZdkeEZkFoABcGhoa2jQ2NvZnu0bW2ovRqw0RmdZa29WArbX3BtsBWAvgsohs01r/VAT/CuBGAA2SjyRJUl8NeH5+/q48z08AWA8gMEaNMT+3wc6570neEwPPGmPeXg3YObeb5CcxFReGh4fvHB0dDbZsjuCK9wA8FedHl5aW9lar1b//q3jOuTcBPBN1XxljHu0oXpZlO0Xksxj8S0Re0Fq/0wucpukOpVSw6A1R94QxZq4DHD6Q5eXlYwAmm08QWSJ5oFvY2uSc0yTfArAp6s9WKpWHi45oxsNPmqZb4yc9Ujj1I5Kp9/6HUqkUcnc3ye2hPwBYU9BdEJEntdanO27cmlhrdwF4H8C6rjSEfuBJhup3dMOCbpFkNUmSk+3iFSHW2gdE5LV4sxXTLCJnSYZeEXp1a/wSb368nYoioVarrS2Xy6HCewAEGw7EtnkVwDkAH+R57pRSW0TkUwC3FG+ulJqZnJw8tdLTmtpY2JtILidJEv5BOoZz7kGSAd5xc+/9TE9wL8u11ur1+pj3PlitCP/xusHhgFAbAEcB3BoPvPK/gKNl71dKvQvgNhF58RpxmT5MusR0IQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Header">
+		<use id="Search icon" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+	</g>
+</svg>

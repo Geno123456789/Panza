@@ -1,0 +1,9 @@
+.uppercase {
+    text-transform: uppercase;
+}
+.titlecase {
+    text-transform: capitalize;
+}
+.color-text {
+    color: #18cfab;
+}

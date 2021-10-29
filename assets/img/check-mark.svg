@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 25" width="24" height="25">
+	<title>Purchase</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #18cfab } 
+	</style>
+	<g id="Purchase">
+		<g id="Point text">
+			<path id="Forma 1 copy 14" class="shp0" d="M12 0.68C5.37 0.68 0 5.97 0 12.5C0 19.04 5.37 24.33 12 24.33C18.63 24.33 24 19.04 24 12.5C24 5.97 18.63 0.68 12 0.68ZM10.3 18.08L4.65 12.5L6.91 10.28L10.3 13.62L17.09 6.93L19.35 9.16L10.3 18.08Z" />
+		</g>
+	</g>
+</svg>
